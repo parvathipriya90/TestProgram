@@ -10,7 +10,6 @@ public class Test2 {
                         find1 = true;
                     }
                 }
-
                 System.out.println(List1[i] + " " + find1);
             }
         }
