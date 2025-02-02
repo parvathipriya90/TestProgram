@@ -26,6 +26,6 @@ public class ArrayMissingNumbers {
 
     public static void main(String[] args) {
 ArrayMissingNumbers arrayMissingNumbers = new ArrayMissingNumbers();
-        System.out.println(arrayMissingNumbers.findMissingNumbers(new int[]{1, 2, 5, 8, 10}));
+        System.out.println(arrayMissingNumbers.findMissingNumbers(new int[]{1, 2, 5,3, 15, 10}));
     }
 }
